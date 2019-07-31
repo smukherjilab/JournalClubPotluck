@@ -18,6 +18,6 @@ Papers, trending (record is 4 hours I remember? lol) or classic, in the followin
 
     There may be minor modifications from time to time. In order not to distrupt people's timelines, we will create a new release for every journal club, so that you can watch this repo and select the `release only` mode.
     
-- Follow us on Twitter @mukherjilab
+- Follow us on [Twitter @mukherjilab](https://twitter.com/mukherjilab)
 
 - More ways to come...
