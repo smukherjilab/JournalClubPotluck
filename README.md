@@ -1,6 +1,6 @@
 # Journal Club Potluck
 
-Every other week, biology people in the Physics Department of WUSTL get together and each brings one of their favorite recent papers, introducing briefly for 3~5 minutes. In case someone is interested in others' recommending papers, we collect people's choices and here is this repository.
+Every other week, biology people in the Physics Department of WUSTL get together and each brings one of their favorite recent papers, introducing briefly for 3~5 minutes. In case memory fades and someone is interested in others' recommendations, we collect people's choices and here is this repository.
 
 ## What to see?
 
